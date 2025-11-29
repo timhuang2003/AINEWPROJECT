@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="/images/banner.png" width="400" />
-</p>
 
-<p align="center">
-  <a target="_blank" href="https://ly.safepoint.cloud/Br48PoX">📖 官方网站</a> &nbsp; | &nbsp;
-  <a target="_blank" href="/images/wechat.png">🙋‍♂️ 微信交流群</a>
-</p>
 
 ## 👋 项目介绍
 
@@ -87,11 +80,6 @@ SUCCESS    密码: **********************
 - 访问 **控制台** 来管理你的知识库内容
 - 访问 **Wiki 网站** 让你的用户使用知识库
 
-## 社区交流
-
-欢迎加入我们的微信群进行交流。
-
-<img src="/images/wechat.png" width="300" />
 
 ## 🙋‍♂️ 贡献
 
@@ -107,6 +95,3 @@ SUCCESS    密码: **********************
 - 商业使用需要遵守相同的开源要求
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chaitin/PandaWiki&type=Date)](https://www.star-history.com/#chaitin/PandaWiki&Date)
